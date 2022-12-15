@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson3.10</string>
+    <string name="text_btn_add_new">Add New Staff</string>
+    <string name="hint_staff_id">Staff id</string>
+    <string name="hint_staff_full_name">Staff full name</string>
+    <string name="hint_birth_date">Birth date</string>
+    <string name="hint_salary">Salary</string>
+</resources>
